@@ -3,6 +3,12 @@
     height: 150px;
 }
 .jumbotron {
-    --bs-bg-opacity: 0.25;
-    background-color: .bg-secondary.bg-gradient  /*rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important; */
+    /* --bs-bg-opacity: 0.25; */
+    background-color: .bg-secondary.bg-gradient;
+    background-image : url("https://www.crowdfarming.com/blog/wp-content/uploads/2023/12/Generic-header-pear.png") 
 }
+
+.cajon{
+    height: 200px;
+}
+
